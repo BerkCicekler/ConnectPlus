@@ -1,0 +1,307 @@
+{
+    "merhaba": "Merhabalar",
+    "@merhaba": {
+        "description": "selamlasma ifadesi"
+    },
+    "dil": "Turkce",
+    "@dil":{
+        "description":"selamlama"
+    },
+    "okullar": "Okullar",
+    "@okullar":{
+        "description":"okullar"
+    },
+    "konaklamatavsiyeleri": "Konaklama Tavsiyeleri",
+    "@konaklamatavsiyeleri":{
+        "description":"konaklamatavsiyeleri"
+    },
+    "gezilecekrotalar": "Gezilecek Rotalar",
+    "@gezilecekrotalar":{
+        "description":"gezilecekrotalar"
+    },
+    "mentorluk": "Mentorluk",
+    "@mentorluk":{
+        "description":"mentorluk"
+    },
+    "ayniokuldaninsanlar": "Aynı Okuldan\nİnsanlarla İletişim",
+    "@ayniokuldaninsanlar":{
+        "description":"ayniokuldaninsanlar"
+    },
+    "onerilenler": "Önerilenler",
+    "@onerilenler":{
+        "description":"onerilenler"
+    },
+    "basvururehberi": "Başvuru Rehberi",
+    "@basvururehberi":{
+        "description":"basvururehberi"
+    },
+    "ara": "Ara...",
+    "@ara":{
+        "description":"ara"
+    },
+    "vizesurecleri": "Vize Süreçleri",
+    "@vizesurecleri":{
+        "description":"vizesurecleri"
+    },
+    "oturumizni": "Oturum İzni",
+    "@oturumizni":{
+        "description":"oturumizni"
+    },
+    "sagliksigortasi": "Sağlık Sigortası",
+    "@sagliksigortasi":{
+        "description":"sagliksigortasi"
+    },
+    "kaliteliegitim": "Kaliteli Eğitim Topluluğu",
+    "@kaliteliegitim":{
+        "description":"kaliteliegitim"
+    },
+    "hesap": "Hesap",
+    "@hesap":{
+        "description":"hesap"
+    },
+    "hesap": "Hesap",
+    "@hesap":{
+        "description":"hesap"
+    },
+    "dilsecenegi": "Dil Seçeneği",
+    "@dilsecenegi":{
+        "description":"dilsecenegi"
+    },
+    "tema": "Tema",
+    "@tema":{
+        "description":"tema"
+    },
+    "bildirimler": "Bildirimler",
+    "@bildirimler":{
+        "description":"bildirimler"
+    },
+    "sss": "Sıkça Sorulan Sorular",
+    "@sss":{
+        "description":"sss"
+    },
+    "kullanimsartlari": "Kullanım Şartları",
+    "@kullanimsartlari":{
+        "description":"kullanimsartlari"
+    },
+    "gizlilikpolitikasi": "Gizlilik Politikası",
+    "@gizlilikpolitikasi":{
+        "description":"gizlilikpolitikasi"
+    },
+    "cikisyap": "Çıkış Yap",
+    "@cikisyap":{
+        "description":"cikisyap"
+    },
+    "girisyap": "Giriş Yap",
+    "@girisyap":{
+        "description":"girisyap"
+    },
+    "banabirseysor": "Bana bir şey sor...",
+    "@banabirseysor":{
+        "description":"banabirseysor"
+    },
+    "mesajlar": "Mesajlar",
+    "@mesajlar":{
+        "description":"mesajlar"
+    },
+    "seninlokasyonun": "Senin Lokasyonun",
+    "@seninlokasyonun":{
+        "description":"seninlokasyonun"
+    },
+    "trendler": "Trendler",
+    "@trendler":{
+        "description":"trendler"
+    },
+    "favorilerim": "Favorilerim",
+    "@favorilerim":{
+        "description":"favorilerim"
+    },
+    "gonderiolustur": "Gönderi Oluştur",
+    "@gonderiolustur":{
+        "description":"gonderiolustur"
+    },
+    "baslik": "Başlık",
+    "@baslik":{
+        "description":"baslik"
+    },
+    "tarih": "Tarih",
+    "@tarih":{
+        "description":"tarih"
+    },
+    "konum": "Konum",
+    "@konum":{
+        "description":"konum"
+    },
+    "saat": "Saat",
+    "@saat":{
+        "description":"saat"
+    },
+    "gorsel": "Görsel",
+    "@gorsel":{
+        "description":"gorsel"
+    },
+    "olustur": "Oluştur",
+    "@olustur":{
+        "description":"olustur"
+    },
+    "etkinliklerigoruntule": "Etkinlikleri Görüntüle",
+    "@etkinliklerigoruntule":{
+        "description":"etkinliklerigoruntule"
+    },
+    "topluluklar": "Topluluklar",
+    "@topluluklar":{
+        "description":"topluluklar"
+    },
+    "katil": "Katıl",
+    "@katil":{
+        "description":"katil"
+    },
+    "katildi": "Katıldı",
+    "@katildi":{
+        "description":"katildi"
+    },
+    "uye": "Üye",
+    "@uye":{
+        "description":"uye"
+    },
+    "topluluktanayrilin": "Topluluktan Ayrılın",
+    "@topluluktanayrilin":{
+        "description":"topluluktanayrilin"
+    },
+    "simdi": "Şimdi",
+    "@simdi":{
+        "description":"simdi"
+    },
+    "gunonce": "gün önce",
+    "@gunonce":{
+        "description":"gunonce"
+    },
+    "saatonce": "saat önce",
+    "@saatonce":{
+        "description":"saatonce"
+    },
+    "dakikaonce": "dakika önce",
+    "@dakikaonce":{
+        "description":"dakikaonce"
+    },
+    "icerik": "İçerik",
+    "@icerik":{
+        "description":"icerik"
+    },
+    "aramayap": "Arama Yap",
+    "@aramayap":{
+        "description":"aramayap"
+    },
+    "mentorlar": "Mentorlar",
+    "@mentorlar":{
+        "description":"mentorlar"
+    },
+    "hakkimda": "Hakkımda",
+    "@hakkimda":{
+        "description":"hakkimda"
+    },
+    "yetkinlikler": "Yetkinlikler",
+    "@yetkinlikler":{
+        "description":"yetkinlikler"
+    },
+    "alinandersler": "Alınan Dersler",
+    "@alinandersler":{
+        "description":"alinandersler"
+    },
+    "bagisyapilacak": "Bağış Yapılacak Kurum",
+    "@bagisyapilacak":{
+        "description":"bagisyapilacak"
+    },
+    "okul": "Okul :",
+    "@okul":{
+        "description":"okul"
+    },
+    "erasmusokulu": "Erasmus Okulu :",
+    "@erasmusokulu":{
+        "description":"erasmusokulu"
+    },
+    "telefonno": "Telefon Numarası :",
+    "@telefonno":{
+        "description":"telefonno"
+    },
+    "profiliniduzenle": "Profilini Düzenle",
+    "@profiliniduzenle":{
+        "description":"profiliniduzenle"
+    },
+    "okuduguokul": "Okuduğu Okul",
+    "@okuduguokul":{
+        "description":"okuduguokul"
+    },
+    "ulke": "Ülke",
+    "@ulke":{
+        "description":"ulke"
+    },
+    "sehir": "Şehir",
+    "@sehir":{
+        "description":"sehir"
+    },
+    "kaydet": "Kaydet",
+    "@kaydet":{
+        "description":"kaydet"
+    },
+    "hosgeldin": "Hoş geldin! Seni Tekrardan gördüğümüze sevindik!",
+    "@hosgeldin":{
+        "description":"hosgeldin"
+    },
+    "emailadresinigir": "Email adresini gir",
+    "@emailadresinigir":{
+        "description":"emailadresinigir"
+    },
+    "sifrenigir": "Şifreni gir",
+    "@sifrenigir":{
+        "description":"sifrenigir"
+    },
+    "sifrenimiunuttun": "Şifreni mi unuttun?",
+    "@sifrenimiunuttun":{
+        "description":"sifrenimiunuttun"
+    },
+    "yadasununlagirisyap": "ya da şununla giriş yap",
+    "@yadasununlagirisyap":{
+        "description":"yadasununlagirisyap"
+    },
+    "hesabinyokmu": "Hesabın yok mu?",
+    "@hesabinyokmu":{
+        "description":"hesabinyokmu"
+    },
+    "simdikayitol": "Şimdi kayıt ol",
+    "@simdikayitol":{
+        "description":"simdikayitol"
+    },
+    "merhababaslamakicin": "Merhaba! Başlamak için kaydolun",
+    "@merhababaslamakicin":{
+        "description":"merhababaslamakicin"
+    },
+    "kullaniciadi": "Kullanıcı adı",
+    "@kullaniciadi":{
+        "description":"kullaniciadi"
+    },
+    "sifre": "Şifre",
+    "@sifre":{
+        "description":"sifre"
+    },
+    "sifrenidogrula": "Şifreni Doğrula",
+    "@sifrenidogrula":{
+        "description":"sifrenidogrula"
+    },
+    "kayitol": "Kayıt ol",
+    "@kayitol":{
+        "description":"kayitol"
+    },
+    "yadasununlakayitol": "ya da şununla kayıt ol",
+    "@yadasununlakayitol":{
+        "description":"yadasununlakayitol"
+    },
+    "zatenhesabinvarmi": "Zaten hesabın var mı?",
+    "@zatenhesabinvarmi":{
+        "description":"zatenhesabinvarmi"
+    },
+    "simdigirisyap": "Şimdi giriş yap",
+    "@simdigirisyap":{
+        "description":"simdigirisyap"
+    }
+}
+

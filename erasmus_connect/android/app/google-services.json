@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "224935111699",
+    "project_id": "connectplus-a75fb",
+    "storage_bucket": "connectplus-a75fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224935111699:android:91472123aad85ed8c223e6",
+        "android_client_info": {
+          "package_name": "com.example.erasmus_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224935111699-t3pj121fhltprsq302i5i043ars75n3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.erasmus_connect",
+            "certificate_hash": "eaf650442d01d70b108abbaba50ac40e81387f40"
+          }
+        },
+        {
+          "client_id": "224935111699-pl389t05p9kh67mg3jvugsrjs941btuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDacCNNeLc8p-8N0CY5sz2TcbAR-ZHz3oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224935111699-3bf4p6t83f9c8ssr3n3qi3hc2cd1cejo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224935111699-rp8b3henvqfrqfc0ikjfans3fgq81mfj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.erasmusConnect.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
